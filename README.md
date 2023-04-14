@@ -8,7 +8,7 @@
 
   This is a fully responsive website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="http://theboysshoppingwebsite.000webhostapp.com/"><strong>➥ Live Demo</strong></a>
+  <a href="http://theboysshoppingwebsite.000webhostapp.com/" target="_blank"><strong>➥ Live Demo</strong></a>
 
 </div>
 
