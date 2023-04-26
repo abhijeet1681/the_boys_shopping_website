@@ -45,7 +45,7 @@ If you want to contact with me you can reach me at [Linkedin](www.linkedin.com/i
 
 | <a href="https://abhijeetjadhavportfolio.netlify.app/" target="_blank">**Abhijeet Jadhav**</a> | <a href="#" target="_blank">**Hitesh Vishwakarma**</a> | 
 | :---: |:---:|
-| [![Abhijeet Jadhav](https://github.com/abhijeet1681.png?size=200)](https://abhijeetjadhavportfolio.netlify.app/)    | [![Hitesh Vishwakarma](https://github.com/HiteshVish.png?size=200)](#) ||
+| [![Abhijeet Jadhav](https://github.com/abhijeet1681.png?size=150)](https://abhijeetjadhavportfolio.netlify.app/)    | [![Hitesh Vishwakarma](https://github.com/HiteshVish.png?size=150)](#) ||
 | <a href="https://github.com/abhijeet1681" target="_blank">`github.com/abhijeet1681`</a> | <a href="https://github.com/HiteshVish" target="_blank">`github.com/hiteshvish`</a> 
 
 ### License
