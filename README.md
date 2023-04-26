@@ -41,6 +41,13 @@ git clone https://github.com/abhijeet1681/the_boys_shopping_website.git
 
 If you want to contact with me you can reach me at [Linkedin](www.linkedin.com/in/abhijeet-jadhav-30b625211).
 
+## Team ✨
+
+| <a href="https://rajaprerak.github.io" target="_blank">**Abhijeet Jadhav**</a> | <a href="https://varadbhogayata.github.io" target="_blank">**Rohan Gupta**</a> | 
+| :---: |:---:|
+| [![Abhijeet Jadhav](https://github.com/rajaprerak.png?size=100)](https://rajaprerak.github.io)    | [![Rohan Gupta](https://github.com/varadbhogayata.png?size=100)](https://varadbhogayata.github.io) ||
+| <a href="https://github.com/rajaprerak" target="_blank">`github.com/rajaprerak`</a> | <a href="https://github.com/varadbhogayata" target="_blank">`github.com/varadbhogayata`</a> 
+
 ### License
 
 This project is **free to use** and does not contains any license.
