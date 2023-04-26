@@ -43,10 +43,10 @@ If you want to contact with me you can reach me at [Linkedin](www.linkedin.com/i
 
 ## Team ✨
 
-| <a href="https://rajaprerak.github.io" target="_blank">**Abhijeet Jadhav**</a> | <a href="https://varadbhogayata.github.io" target="_blank">**Rohan Gupta**</a> | 
+| <a href="https://abhijeetjadhavportfolio.netlify.app/" target="_blank">**Abhijeet Jadhav**</a> | <a href="#" target="_blank">**Hitesh Vishwakarma**</a> | 
 | :---: |:---:|
-| [![Abhijeet Jadhav](https://github.com/rajaprerak.png?size=100)](https://rajaprerak.github.io)    | [![Rohan Gupta](https://github.com/varadbhogayata.png?size=100)](https://varadbhogayata.github.io) ||
-| <a href="https://github.com/rajaprerak" target="_blank">`github.com/rajaprerak`</a> | <a href="https://github.com/varadbhogayata" target="_blank">`github.com/varadbhogayata`</a> 
+| [![Abhijeet Jadhav](https://github.com/abhijeet1681.png?size=150)](https://abhijeetjadhavportfolio.netlify.app/)    | [![Hitesh Vishwakarma](https://github.com/HiteshVish.png?size=100)](#) ||
+| <a href="https://github.com/abhijeet1681" target="_blank">`github.com/abhijeet1681`</a> | <a href="https://github.com/HiteshVish" target="_blank">`github.com/hiteshvish`</a> 
 
 ### License
 
